@@ -1,0 +1,16 @@
+###### 1.conversion ####
+
+## columns --> check outlier(distibution, upper and lower),visualizatoin
+
+## age --> binning
+
+## dummy --> keep K-1 ??
+
+## choose model ???
+
+## rf criterion = mse or mae
+
+## unbalanced data : https://elitedatascience.com/imbalanced-classes
+
+## feature importance plot (business strategy)
+
