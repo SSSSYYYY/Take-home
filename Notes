@@ -1,4 +1,7 @@
 ###### 1.conversion ####
+https://jgondin.github.io
+https://github.com/JifuZhao/DS-Take-Home/blob/master/01.%20Conversion%20Rate.ipynb
+
 
 ## columns --> check outlier(distibution, upper and lower),visualizatoin
 
@@ -11,6 +14,7 @@
 ## rf criterion = mse or mae
 
 ## unbalanced data : https://elitedatascience.com/imbalanced-classes
+smote: https://medium.com/coinmonks/smote-and-adasyn-handling-imbalanced-data-set-34f5223e167
 
 ## feature importance plot (business strategy)
 
